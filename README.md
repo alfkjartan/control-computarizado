@@ -1,2 +1,4 @@
 # control-computarizado
-Stuff for class MR2007, Tec de Monterrey
+Learning material for class MR2007, Tec de Monterrey
+
+You should start [here](README.ipynb).
