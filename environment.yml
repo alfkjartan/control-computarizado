@@ -3,14 +3,9 @@ dependencies:
   - seaborn
   - numpy
   - pandas
-  - fortran-magic 
-  - cython
-  - rpy2
   - scipy
+  - slycot
   - control
-  - pip
-  - pip:
-      - julia
-      - cffi_magic
+  - sysid
       
   
