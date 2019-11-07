@@ -1,9 +1,8 @@
 dependencies:
   - matplotlib
-  - seaborn
   - numpy
-  - pandas
   - scipy
   - slycot
   - control
+  - sympy
   
