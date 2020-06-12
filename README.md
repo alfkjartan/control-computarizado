@@ -1,8 +1,3 @@
 # control-computarizado
-Learning material for class MR2007, Tec de Monterrey
 
-View the notebooks in this repo using Binder!
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alfkjartan/control-computarizado.git/master)
-
-Then start with (README.ipynb).
+**This repository is DEPRECATED and has been archived.** All material is moved to (https://github.com/kjartan-at-tec/mr2007-computerized-control) and the development continues there. Welcome!
